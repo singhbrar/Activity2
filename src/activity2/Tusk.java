@@ -10,7 +10,7 @@ package activity2;
  * @author Jon mark
  */
 public class Tusk {
-     private String type="int";
+     private String type="strength";
         private Skills[]attackskill=new Skills[4];
     private int skillcount=1;
           public Tusk()

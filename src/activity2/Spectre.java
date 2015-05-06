@@ -10,7 +10,7 @@ package activity2;
  * @author Jon mark
  */
 public class Spectre extends Hero {
-     private String type="strength";
+     private String type="int";
        private Skills[]attackskill=new Skills[4];
     private int skillcount=1;
       public Spectre()
